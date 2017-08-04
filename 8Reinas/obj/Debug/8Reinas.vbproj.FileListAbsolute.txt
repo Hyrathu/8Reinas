@@ -1,0 +1,37 @@
+C:\Users\Profesor\AppData\Local\Temporary Projects\8Reinas\bin\Debug\8Reinas.exe.config
+C:\Users\Profesor\AppData\Local\Temporary Projects\8Reinas\bin\Debug\8Reinas.exe
+C:\Users\Profesor\AppData\Local\Temporary Projects\8Reinas\bin\Debug\8Reinas.pdb
+C:\Users\Profesor\AppData\Local\Temporary Projects\8Reinas\bin\Debug\8Reinas.xml
+C:\Users\Profesor\AppData\Local\Temporary Projects\8Reinas\obj\Debug\8Reinas.vbprojResolveAssemblyReference.cache
+C:\Users\Profesor\AppData\Local\Temporary Projects\8Reinas\obj\Debug\_8Reinas.Form1.resources
+C:\Users\Profesor\AppData\Local\Temporary Projects\8Reinas\obj\Debug\_8Reinas.Resources.resources
+C:\Users\Profesor\AppData\Local\Temporary Projects\8Reinas\obj\Debug\8Reinas.vbproj.GenerateResource.Cache
+C:\Users\Profesor\AppData\Local\Temporary Projects\8Reinas\obj\Debug\8Reinas.exe
+C:\Users\Profesor\AppData\Local\Temporary Projects\8Reinas\obj\Debug\8Reinas.xml
+C:\Users\Profesor\AppData\Local\Temporary Projects\8Reinas\obj\Debug\8Reinas.pdb
+C:\Users\Profesor\Desktop\INTERFACES\8Reinas\8Reinas\bin\Debug\8Reinas.exe.config
+C:\Users\Profesor\Desktop\INTERFACES\8Reinas\8Reinas\obj\Debug\8Reinas.exe
+C:\Users\Profesor\Desktop\INTERFACES\8Reinas\8Reinas\obj\Debug\8Reinas.xml
+C:\Users\Profesor\Desktop\INTERFACES\8Reinas\8Reinas\obj\Debug\8Reinas.pdb
+C:\Users\Yeremesa\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\bin\Debug\8Reinas.exe.config
+C:\Users\Yeremesa\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\8Reinas.exe
+C:\Users\Yeremesa\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\8Reinas.xml
+C:\Users\Yeremesa\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\8Reinas.pdb
+C:\Users\Yeremesa\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\bin\Debug\8Reinas.exe
+C:\Users\Yeremesa\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\bin\Debug\8Reinas.pdb
+C:\Users\Yeremesa\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\bin\Debug\8Reinas.xml
+C:\Users\Yeremesa\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\8Reinas.vbprojResolveAssemblyReference.cache
+C:\Users\Yeremesa\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\_8Reinas.Form1.resources
+C:\Users\Yeremesa\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\_8Reinas.Resources.resources
+C:\Users\Yeremesa\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\8Reinas.vbproj.GenerateResource.Cache
+C:\Users\Victor\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\bin\Debug\8Reinas.exe.config
+C:\Users\Victor\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\8Reinas.exe
+C:\Users\Victor\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\8Reinas.xml
+C:\Users\Victor\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\8Reinas.pdb
+C:\Users\Victor\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\bin\Debug\8Reinas.exe
+C:\Users\Victor\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\bin\Debug\8Reinas.pdb
+C:\Users\Victor\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\bin\Debug\8Reinas.xml
+C:\Users\Victor\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\8Reinas.vbprojResolveAssemblyReference.cache
+C:\Users\Victor\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\_8Reinas.Form1.resources
+C:\Users\Victor\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\_8Reinas.Resources.resources
+C:\Users\Victor\Dropbox\DAM\Segundo\Visual\8Reinas\8Reinas\obj\Debug\8Reinas.vbproj.GenerateResource.Cache
